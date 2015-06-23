@@ -1,0 +1,18 @@
+{
+  "uuid": "4315b0be-a37e-4839-b4c7-e445a4111de7",
+  "shortName": "illumiglo",
+  "longName": "illumiglo",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
