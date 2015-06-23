@@ -1,13 +1,13 @@
 {
   "uuid": "4315b0be-a37e-4839-b4c7-e445a4111de7",
-  "shortName": "illumiglo",
-  "longName": "illumiglo",
-  "companyName": "MakeAwesomeHappen",
-  "versionLabel": "1.0",
+  "shortName": "Illumiglo",
+  "longName": "Illumiglo",
+  "companyName": "frogamic",
+  "versionLabel": "0.1",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt"],
   "watchapp": {
-    "watchface": false
+    "watchface": true
   },
   "appKeys": {
     "dummy": 0
